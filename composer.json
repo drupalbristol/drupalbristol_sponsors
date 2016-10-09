@@ -1,0 +1,7 @@
+{
+  "name": "drupalbristol/drupalbristol_sponsors",
+  "type": "custom-module",
+  "require": {
+    "composer/installers": "~1.0"
+  }
+}
